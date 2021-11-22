@@ -23,7 +23,7 @@ TRANSPORT_CATEGORY = [("1", "0"), ("2", "1"), ("3", "2"), ("4", "3"), ("5", "4")
 class ProductTemplate(models.Model):
     _inherit = "product.template"
 
-    is_dangerous = fields.Boolean(string="Dangerous product")
+    is_dangerous = fields.Boolean(string="Dangerous product", index=True)
     dangerous_class_id = fields.Many2one(
         "product.dangerous.class", string="Dangerous class"
     )
@@ -70,7 +70,9 @@ class ProductTemplate(models.Model):
     dangerous_selection_id = fields.Many2one("dangerous.goods")
     wgk_class_id = fields.Many2one("wgk.class")
 
-    is_dangerous_good = fields.Boolean(help="This product belongs to a dangerous class")
+    is_dangerous_good = fields.Boolean(
+        help="This product belongs to a dangerous class", index=True
+    )
     is_dangerous_waste = fields.Boolean(
         help="Waste from this product belongs to a dangerous class"
     )
