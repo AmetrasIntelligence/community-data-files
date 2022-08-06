@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ametras-xsolutions\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: German\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: ametras-xsolutions\n"
+"X-Crowdin-Project-ID: 530964\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /[AmetrasIntelligence.community-data-files] 13.0/base_currency_iso_4217/i18n/base_currency_iso_4217.pot\n"
+"X-Crowdin-File-ID: 2902\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2022-08-06 21:41\n"
+
+#. module: base_currency_iso_4217
+#: model:ir.model,name:base_currency_iso_4217.model_res_currency
+msgid "Currency"
+msgstr "Währung"
+
+#. module: base_currency_iso_4217
+#: model:ir.model.fields,help:base_currency_iso_4217.field_res_currency__full_name
+msgid "Currency name, according to ISO 4217 standard"
+msgstr ""
+
+#. module: base_currency_iso_4217
+#: model:ir.model.fields,field_description:base_currency_iso_4217.field_res_currency__full_name
+msgid "Full name"
+msgstr ""
+
+#. module: base_currency_iso_4217
+#: model:ir.model.fields,help:base_currency_iso_4217.field_res_currency__numeric_code
+msgid "ISO Numeric Code for currency, according to ISO 4217 standard."
+msgstr ""
+
+#. module: base_currency_iso_4217
+#: model:ir.model.fields,field_description:base_currency_iso_4217.field_res_currency__numeric_code
+msgid "Numeric Code"
+msgstr ""
+
