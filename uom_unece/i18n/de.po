@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ametras-xsolutions\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: German\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: ametras-xsolutions\n"
+"X-Crowdin-Project-ID: 530964\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /[AmetrasIntelligence.community-data-files] 13.0/uom_unece/i18n/uom_unece.pot\n"
+"X-Crowdin-File-ID: 2916\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2022-08-06 21:41\n"
+
+#. module: uom_unece
+#: model:ir.model,name:uom_unece.model_uom_uom
+msgid "Product Unit of Measure"
+msgstr ""
+
+#. module: uom_unece
+#: model:ir.model.fields,help:uom_unece.field_uom_uom__unece_code
+msgid "Standard nomenclature of the United Nations Economic Commission for Europe (UNECE)."
+msgstr ""
+
+#. module: uom_unece
+#: model:ir.model.fields,field_description:uom_unece.field_uom_uom__unece_code
+msgid "UNECE Code"
+msgstr ""
+
