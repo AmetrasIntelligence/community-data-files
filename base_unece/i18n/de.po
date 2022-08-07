@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.community-data-files] 13.0/base_unece/i18n/base_unece.pot\n"
 "X-Crowdin-File-ID: 2906\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:41\n"
+"PO-Revision-Date: 2022-08-07 00:02\n"
 
 #. module: base_unece
 #: model:ir.model.fields,field_description:base_unece.field_unece_code_list__active
@@ -35,7 +35,7 @@ msgstr ""
 #. module: base_unece
 #: model:ir.model.fields,field_description:base_unece.field_unece_code_list__code
 msgid "Code"
-msgstr ""
+msgstr "Code"
 
 #. module: base_unece
 #: model:ir.model.fields,field_description:base_unece.field_unece_code_list__create_uid
