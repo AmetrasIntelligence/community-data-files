@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.community-data-files] 13.0/l10n_eu_product_adr/i18n/l10n_eu_product_adr.pot\n"
 "X-Crowdin-File-ID: 2910\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:41\n"
+"PO-Revision-Date: 2022-08-07 00:02\n"
 
 #. module: l10n_eu_product_adr
 #: model:product.dangerous.class,name:l10n_eu_product_adr.dangerous_class_8
@@ -114,7 +114,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_dangerous_class__code
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_un_reference__name
 msgid "Code"
-msgstr ""
+msgstr "Code"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_product__content_package
