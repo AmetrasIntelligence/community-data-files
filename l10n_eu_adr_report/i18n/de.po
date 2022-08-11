@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.community-data-files] 13.0/l10n_eu_adr_report/i18n/l10n_eu_adr_report.pot\n"
 "X-Crowdin-File-ID: 2908\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-11 07:58\n"
+"PO-Revision-Date: 2022-08-11 11:00\n"
 
 #. module: l10n_eu_adr_report
 #: model_terms:ir.ui.view,arch_db:l10n_eu_adr_report.report_delivery_adr_document
@@ -56,7 +56,7 @@ msgstr "15 Container-Identifikationsnr.\n"
 #. module: l10n_eu_adr_report
 #: model_terms:ir.ui.view,arch_db:l10n_eu_adr_report.report_delivery_adr_document
 msgid "16 Seal number(s)"
-msgstr ""
+msgstr "16 Siegelnummer(n)"
 
 #. module: l10n_eu_adr_report
 #: model_terms:ir.ui.view,arch_db:l10n_eu_adr_report.report_delivery_adr_document
@@ -66,22 +66,22 @@ msgstr ""
 #. module: l10n_eu_adr_report
 #: model_terms:ir.ui.view,arch_db:l10n_eu_adr_report.report_delivery_adr_document
 msgid "18 Tare mass (kg)"
-msgstr ""
+msgstr "Leergewicht"
 
 #. module: l10n_eu_adr_report
 #: model_terms:ir.ui.view,arch_db:l10n_eu_adr_report.report_delivery_adr_document
 msgid "19 Total gross mass (including tare) (kg)"
-msgstr ""
+msgstr "19 Bruttomasse (inkl. Tara) (kg)"
 
 #. module: l10n_eu_adr_report
 #: model_terms:ir.ui.view,arch_db:l10n_eu_adr_report.report_delivery_adr_document
 msgid "2 Transport document number"
-msgstr ""
+msgstr "2 Transportdokumentnummer"
 
 #. module: l10n_eu_adr_report
 #: model_terms:ir.ui.view,arch_db:l10n_eu_adr_report.report_delivery_adr_document
 msgid "20 Name of company"
-msgstr ""
+msgstr "20 Firmenname"
 
 #. module: l10n_eu_adr_report
 #: model_terms:ir.ui.view,arch_db:l10n_eu_adr_report.report_delivery_adr_document
@@ -92,22 +92,22 @@ msgstr ""
 #. module: l10n_eu_adr_report
 #: model_terms:ir.ui.view,arch_db:l10n_eu_adr_report.report_delivery_adr_document
 msgid "3 Page of pages"
-msgstr ""
+msgstr "Seite der Seiten"
 
 #. module: l10n_eu_adr_report
 #: model_terms:ir.ui.view,arch_db:l10n_eu_adr_report.report_delivery_adr_document
 msgid "4 Shipper’s reference"
-msgstr ""
+msgstr "4 Referenz des Versenders"
 
 #. module: l10n_eu_adr_report
 #: model_terms:ir.ui.view,arch_db:l10n_eu_adr_report.report_delivery_adr_document
 msgid "5 Freight forwarder’s reference"
-msgstr ""
+msgstr "5 Referenz des Spediteurs"
 
 #. module: l10n_eu_adr_report
 #: model_terms:ir.ui.view,arch_db:l10n_eu_adr_report.report_delivery_adr_document
 msgid "6 Consignee"
-msgstr ""
+msgstr "Empfänger"
 
 #. module: l10n_eu_adr_report
 #: model_terms:ir.ui.view,arch_db:l10n_eu_adr_report.report_delivery_adr_document
