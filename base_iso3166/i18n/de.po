@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.community-data-files] 13.0/base_iso3166/i18n/base_iso3166.pot\n"
 "X-Crowdin-File-ID: 2904\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:41\n"
+"PO-Revision-Date: 2022-08-11 07:58\n"
 
 #. module: base_iso3166
 #: model:ir.model,name:base_iso3166.model_res_country
@@ -24,20 +24,20 @@ msgstr "Land"
 #. module: base_iso3166
 #: model:ir.model.fields,field_description:base_iso3166.field_res_country__code_alpha3
 msgid "Country Code (3-letter)"
-msgstr ""
+msgstr "Ländercode (3-Buchstaben)"
 
 #. module: base_iso3166
 #: model:ir.model.fields,field_description:base_iso3166.field_res_country__code_numeric
 msgid "Country Code (numeric)"
-msgstr ""
+msgstr "Landesvorwahl (numerisch)"
 
 #. module: base_iso3166
 #: model:ir.model.fields,help:base_iso3166.field_res_country__code_alpha3
 msgid "ISO 3166-1 alpha-3 (three-letter) code for the country"
-msgstr ""
+msgstr "ISO 3166-1 Alpha-3 (drei Buchstaben) Code für das Land"
 
 #. module: base_iso3166
 #: model:ir.model.fields,help:base_iso3166.field_res_country__code_numeric
 msgid "ISO 3166-1 numeric code for the country"
-msgstr ""
+msgstr "ISO 3166-1 numerischer Code für das Land"
 
