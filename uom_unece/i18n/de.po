@@ -14,12 +14,12 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.community-data-files] 13.0/uom_unece/i18n/uom_unece.pot\n"
 "X-Crowdin-File-ID: 2916\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-11 07:58\n"
+"PO-Revision-Date: 2022-08-11 15:59\n"
 
 #. module: uom_unece
 #: model:ir.model,name:uom_unece.model_uom_uom
 msgid "Product Unit of Measure"
-msgstr ""
+msgstr "Produkt Mengeneinheit"
 
 #. module: uom_unece
 #: model:ir.model.fields,help:uom_unece.field_uom_uom__unece_code
