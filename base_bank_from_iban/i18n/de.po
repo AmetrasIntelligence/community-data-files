@@ -14,12 +14,12 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.community-data-files] 13.0/base_bank_from_iban/i18n/base_bank_from_iban.pot\n"
 "X-Crowdin-File-ID: 2900\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-07 00:02\n"
+"PO-Revision-Date: 2022-08-11 07:58\n"
 
 #. module: base_bank_from_iban
 #: model:ir.model,name:base_bank_from_iban.model_res_bank
 msgid "Bank"
-msgstr ""
+msgstr "Bank"
 
 #. module: base_bank_from_iban
 #: model:ir.model,name:base_bank_from_iban.model_res_partner_bank
@@ -34,5 +34,5 @@ msgstr "Code"
 #. module: base_bank_from_iban
 #: model:ir.model,name:base_bank_from_iban.model_account_journal
 msgid "Journal"
-msgstr ""
+msgstr "Journal"
 
