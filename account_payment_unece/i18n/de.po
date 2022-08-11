@@ -14,12 +14,12 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.community-data-files] 13.0/account_payment_unece/i18n/account_payment_unece.pot\n"
 "X-Crowdin-File-ID: 2896\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:41\n"
+"PO-Revision-Date: 2022-08-11 07:58\n"
 
 #. module: account_payment_unece
 #: model:ir.model.fields.selection,name:account_payment_unece.selection__unece_code_list__type__payment_means
 msgid "Payment Means (UNCL 4461)"
-msgstr ""
+msgstr "Zahlungsmittel (UNCL 4461)"
 
 #. module: account_payment_unece
 #: model:ir.model,name:account_payment_unece.model_account_payment_method
@@ -29,25 +29,25 @@ msgstr "Zahlungsmethoden"
 #. module: account_payment_unece
 #: model:ir.model.fields,help:account_payment_unece.field_account_payment_method__unece_id
 msgid "Standard nomenclature of the United Nations Economic Commission for Europe (UNECE) defined in UN/EDIFACT Data Element 4461"
-msgstr ""
+msgstr "Standard-Nomenklatur der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE), definiert in UN/EDIFACT Datenelement 4461"
 
 #. module: account_payment_unece
 #: model:ir.model.fields,field_description:account_payment_unece.field_unece_code_list__type
 msgid "Type"
-msgstr "Art"
+msgstr "Typ"
 
 #. module: account_payment_unece
 #: model:ir.model.fields,field_description:account_payment_unece.field_account_payment_method__unece_code
 msgid "UNECE Code"
-msgstr ""
+msgstr "UNECE Code"
 
 #. module: account_payment_unece
 #: model:ir.model.fields,field_description:account_payment_unece.field_account_payment_method__unece_id
 msgid "UNECE Payment Mean"
-msgstr ""
+msgstr "UNECE Zahlungsmittel"
 
 #. module: account_payment_unece
 #: model:ir.model,name:account_payment_unece.model_unece_code_list
 msgid "UNECE nomenclatures"
-msgstr ""
+msgstr "UNECE Nomenklaturen"
 
