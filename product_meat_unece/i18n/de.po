@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.community-data-files] 13.0/product_meat_unece/i18n/product_meat_unece.pot\n"
 "X-Crowdin-File-ID: 2914\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:41\n"
+"PO-Revision-Date: 2022-08-11 07:58\n"
 
 #. module: product_meat_unece
 #: model:ir.model.fields,field_description:product_meat_unece.field_product_product__unece_meat_bovine_category_id
@@ -130,7 +130,7 @@ msgstr ""
 #. module: product_meat_unece
 #: model:ir.model,name:product_meat_unece.model_unece_code_list
 msgid "UNECE nomenclatures"
-msgstr ""
+msgstr "UNECE Nomenklaturen"
 
 #. module: product_meat_unece
 #: model:ir.model.fields,field_description:product_meat_unece.field_product_product__unece_meat_weight_range_id
