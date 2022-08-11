@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.community-data-files] 13.0/base_unece/i18n/base_unece.pot\n"
 "X-Crowdin-File-ID: 2906\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-07 00:02\n"
+"PO-Revision-Date: 2022-08-11 07:58\n"
 
 #. module: base_unece
 #: model:ir.model.fields,field_description:base_unece.field_unece_code_list__active
@@ -24,13 +24,13 @@ msgstr "Aktiv"
 #. module: base_unece
 #: model:ir.model.constraint,message:base_unece.constraint_unece_code_list_type_code_uniq
 msgid "An UNECE code of the same type already exists"
-msgstr ""
+msgstr "Ein UNECE-Code des gleichen Typs existiert bereits"
 
 #. module: base_unece
 #: model_terms:ir.ui.view,arch_db:base_unece.unece_code_list_form
 #: model_terms:ir.ui.view,arch_db:base_unece.unece_code_list_search
 msgid "Archived"
-msgstr ""
+msgstr "Archiviert"
 
 #. module: base_unece
 #: model:ir.model.fields,field_description:base_unece.field_unece_code_list__code
@@ -102,10 +102,10 @@ msgstr "Art"
 #: model:ir.actions.act_window,name:base_unece.unece_code_list_action
 #: model:ir.ui.menu,name:base_unece.unece_code_list_menu
 msgid "UNECE Code Lists"
-msgstr ""
+msgstr "UNECE Code-Listen"
 
 #. module: base_unece
 #: model:ir.model,name:base_unece.model_unece_code_list
 msgid "UNECE nomenclatures"
-msgstr ""
+msgstr "UNECE Nomenklaturen"
 
