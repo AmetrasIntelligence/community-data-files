@@ -14,43 +14,44 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.community-data-files] 13.0/l10n_eu_adr_report/i18n/l10n_eu_adr_report.pot\n"
 "X-Crowdin-File-ID: 2908\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:41\n"
+"PO-Revision-Date: 2022-08-11 07:58\n"
 
 #. module: l10n_eu_adr_report
 #: model_terms:ir.ui.view,arch_db:l10n_eu_adr_report.report_delivery_adr_document
 msgid "1 Shipper/Consignor/Sender"
-msgstr ""
+msgstr "1 Lieferant/Einlieferer/Absender"
 
 #. module: l10n_eu_adr_report
 #: model_terms:ir.ui.view,arch_db:l10n_eu_adr_report.report_delivery_adr_document
 msgid "10 Vessel/flight no. and date"
-msgstr ""
+msgstr "10 Schiff/Flugnummer und Datum"
 
 #. module: l10n_eu_adr_report
 #: model_terms:ir.ui.view,arch_db:l10n_eu_adr_report.report_delivery_adr_document
 msgid "11 Port/place of loading"
-msgstr ""
+msgstr "11 Hafen/Ort der Verladung"
 
 #. module: l10n_eu_adr_report
 #: model_terms:ir.ui.view,arch_db:l10n_eu_adr_report.report_delivery_adr_document
 msgid "12 Port/place of discharge"
-msgstr ""
+msgstr "12 Hafen/Ort der Entladung"
 
 #. module: l10n_eu_adr_report
 #: model_terms:ir.ui.view,arch_db:l10n_eu_adr_report.report_delivery_adr_document
 msgid "13 Destination"
-msgstr ""
+msgstr "13 Ziel"
 
 #. module: l10n_eu_adr_report
 #: model_terms:ir.ui.view,arch_db:l10n_eu_adr_report.report_delivery_adr_details
 msgid "14 Shipping marks"
-msgstr ""
+msgstr "14 Versandmarken"
 
 #. module: l10n_eu_adr_report
 #: model_terms:ir.ui.view,arch_db:l10n_eu_adr_report.report_delivery_adr_document
 msgid "15 Container identification No.\n"
 "                                        Vehicle registration No."
-msgstr ""
+msgstr "15 Container-Identifikationsnr.\n"
+"                                        Fahrzeugregistrierung Nr."
 
 #. module: l10n_eu_adr_report
 #: model_terms:ir.ui.view,arch_db:l10n_eu_adr_report.report_delivery_adr_document
