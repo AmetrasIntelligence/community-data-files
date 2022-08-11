@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.community-data-files] 13.0/base_currency_iso_4217/i18n/base_currency_iso_4217.pot\n"
 "X-Crowdin-File-ID: 2902\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:41\n"
+"PO-Revision-Date: 2022-08-11 07:58\n"
 
 #. module: base_currency_iso_4217
 #: model:ir.model,name:base_currency_iso_4217.model_res_currency
@@ -24,20 +24,20 @@ msgstr "Währung"
 #. module: base_currency_iso_4217
 #: model:ir.model.fields,help:base_currency_iso_4217.field_res_currency__full_name
 msgid "Currency name, according to ISO 4217 standard"
-msgstr ""
+msgstr "Währungsname nach ISO 4217 Standard"
 
 #. module: base_currency_iso_4217
 #: model:ir.model.fields,field_description:base_currency_iso_4217.field_res_currency__full_name
 msgid "Full name"
-msgstr ""
+msgstr "Voller Name"
 
 #. module: base_currency_iso_4217
 #: model:ir.model.fields,help:base_currency_iso_4217.field_res_currency__numeric_code
 msgid "ISO Numeric Code for currency, according to ISO 4217 standard."
-msgstr ""
+msgstr "ISO Numerischer Code für Währung, gemäß ISO 4217 Norm."
 
 #. module: base_currency_iso_4217
 #: model:ir.model.fields,field_description:base_currency_iso_4217.field_res_currency__numeric_code
 msgid "Numeric Code"
-msgstr ""
+msgstr "Numerischer Code"
 
