@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.community-data-files] 13.0/account_tax_unece/i18n/account_tax_unece.pot\n"
 "X-Crowdin-File-ID: 2898\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:41\n"
+"PO-Revision-Date: 2022-08-11 07:58\n"
 
 #. module: account_tax_unece
 #: model:ir.model.fields.selection,name:account_tax_unece.selection__unece_code_list__type__date
@@ -42,17 +42,17 @@ msgstr ""
 #. module: account_tax_unece
 #: model:ir.model,name:account_tax_unece.model_account_tax
 msgid "Tax"
-msgstr ""
+msgstr "Steuer"
 
 #. module: account_tax_unece
 #: model:ir.model.fields.selection,name:account_tax_unece.selection__unece_code_list__type__tax_categ
 msgid "Tax Categories (UNCL 5305)"
-msgstr ""
+msgstr "Steuerkategorien (UNCL 5305)"
 
 #. module: account_tax_unece
 #: model:ir.model.fields.selection,name:account_tax_unece.selection__unece_code_list__type__tax_type
 msgid "Tax Types (UNCL 5153)"
-msgstr ""
+msgstr "Steuertypen (UNCL 5153)"
 
 #. module: account_tax_unece
 #: model:ir.model,name:account_tax_unece.model_account_tax_template
@@ -67,43 +67,43 @@ msgstr "Art"
 #. module: account_tax_unece
 #: model:ir.model.fields,field_description:account_tax_unece.field_account_tax__unece_categ_code
 msgid "UNECE Category Code"
-msgstr ""
+msgstr "UNECE Kategorie-Code"
 
 #. module: account_tax_unece
 #: model:ir.model.fields,field_description:account_tax_unece.field_account_tax__unece_due_date_id
 #: model:ir.model.fields,field_description:account_tax_unece.field_account_tax_template__unece_due_date_id
 msgid "UNECE Due Date"
-msgstr ""
+msgstr "UNECE Fälligkeitsdatum"
 
 #. module: account_tax_unece
 #: model:ir.model.fields,field_description:account_tax_unece.field_account_tax__unece_due_date_code
 msgid "UNECE Due Date Code"
-msgstr ""
+msgstr "UNECE Fälligkeitsdatum Code"
 
 #. module: account_tax_unece
 #: model:ir.model.fields,field_description:account_tax_unece.field_account_tax__unece_categ_id
 #: model:ir.model.fields,field_description:account_tax_unece.field_account_tax_template__unece_categ_id
 msgid "UNECE Tax Category"
-msgstr ""
+msgstr "UNECE Steuerkategorie"
 
 #. module: account_tax_unece
 #: model:ir.model.fields,field_description:account_tax_unece.field_account_tax__unece_type_id
 #: model:ir.model.fields,field_description:account_tax_unece.field_account_tax_template__unece_type_id
 msgid "UNECE Tax Type"
-msgstr ""
+msgstr "UNECE Steuer-Typ"
 
 #. module: account_tax_unece
 #: model:ir.model.fields,field_description:account_tax_unece.field_account_tax__unece_type_code
 msgid "UNECE Type Code"
-msgstr ""
+msgstr "UNECE Type Code"
 
 #. module: account_tax_unece
 #: model:ir.model,name:account_tax_unece.model_unece_code_list
 msgid "UNECE nomenclatures"
-msgstr ""
+msgstr "UNECE Nomenklaturen"
 
 #. module: account_tax_unece
 #: model_terms:ir.ui.view,arch_db:account_tax_unece.view_tax_template_form
 msgid "Unece"
-msgstr ""
+msgstr "Unece"
 
