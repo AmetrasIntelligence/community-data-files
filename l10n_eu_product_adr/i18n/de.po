@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.community-data-files] 13.0/l10n_eu_product_adr/i18n/l10n_eu_product_adr.pot\n"
 "X-Crowdin-File-ID: 2910\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-07 00:02\n"
+"PO-Revision-Date: 2022-08-18 09:32\n"
 
 #. module: l10n_eu_product_adr
 #: model:product.dangerous.class,name:l10n_eu_product_adr.dangerous_class_8
@@ -179,22 +179,22 @@ msgstr "DG - Masseinheit"
 #. module: l10n_eu_product_adr
 #: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.product_dangerous_class_view_form
 msgid "Dangerous Class"
-msgstr ""
+msgstr "Gefahrgut"
 
 #. module: l10n_eu_product_adr
 #: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.product_dangerous_class_type_view_tree
 msgid "Dangerous Class Types"
-msgstr ""
+msgstr "Gefahrgutklassen"
 
 #. module: l10n_eu_product_adr
 #: model:ir.ui.menu,name:l10n_eu_product_adr.menu_l10n_eu_product_adr
 msgid "Dangerous Good Classes"
-msgstr ""
+msgstr "Gefährliche Güterklasse"
 
 #. module: l10n_eu_product_adr
 #: model:ir.ui.menu,name:l10n_eu_product_adr.menu_l10n_eu_product_adr_type
 msgid "Dangerous Good Type"
-msgstr ""
+msgstr "Gefahrgutklasse"
 
 #. module: l10n_eu_product_adr
 #: model:ir.actions.act_window,name:l10n_eu_product_adr.product_dangerous_class_action
@@ -210,7 +210,7 @@ msgstr "Gefahrgutklassen"
 #. module: l10n_eu_product_adr
 #: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.product_template_form_view
 msgid "Dangerous Packaging"
-msgstr ""
+msgstr "Gefahrgut Verpackung"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_product__dangerous_selection_id
@@ -221,12 +221,12 @@ msgstr "Gefahrgut"
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_dangerous_class__class_type_id
 msgid "Dangerous Type"
-msgstr ""
+msgstr "Gefahrgut Art"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model,name:l10n_eu_product_adr.model_dangerous_uom
 msgid "Dangerous UOM"
-msgstr ""
+msgstr "Gefahrgut Mengeneinheit"
 
 #. module: l10n_eu_product_adr
 #: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.product_template_form_view
@@ -237,7 +237,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_product__dangerous_class_id
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_template__dangerous_class_id
 msgid "Dangerous class"
-msgstr ""
+msgstr "Gefahrgut"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_product__is_dangerous
@@ -248,7 +248,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.product_dangerous_class_view_tree
 msgid "Dangerous types"
-msgstr ""
+msgstr "Gefahrgut Arten"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_un_reference__description
@@ -287,38 +287,38 @@ msgstr "Umweltgefährdend"
 #. module: l10n_eu_product_adr
 #: model:product.dangerous.class,name:l10n_eu_product_adr.dangerous_class_1
 msgid "Explosive substances and articles"
-msgstr ""
+msgstr "Explosive Stoffe und Gegenstände"
 
 #. module: l10n_eu_product_adr
 #: model:product.dangerous.class.type,name:l10n_eu_product_adr.dangerous_type_class_1
 msgid "Explosives"
-msgstr ""
+msgstr "Explosive Stoffe"
 
 #. module: l10n_eu_product_adr
 #: model:product.dangerous.class.type,name:l10n_eu_product_adr.dangerous_type_class_2_1
 msgid "Flammable gases"
-msgstr ""
+msgstr "Brennbare Gase"
 
 #. module: l10n_eu_product_adr
 #: model:product.dangerous.class,name:l10n_eu_product_adr.dangerous_class_2
 msgid "Flammable gases "
-msgstr ""
+msgstr "Brennbare Gase "
 
 #. module: l10n_eu_product_adr
 #: model:product.dangerous.class,name:l10n_eu_product_adr.dangerous_class_5
 #: model:product.dangerous.class.type,name:l10n_eu_product_adr.dangerous_type_class_3
 msgid "Flammable liquids"
-msgstr ""
+msgstr "Entzündbare Flüssigkeiten"
 
 #. module: l10n_eu_product_adr
 #: model:product.dangerous.class,name:l10n_eu_product_adr.dangerous_class_6
 msgid "Flammable solids "
-msgstr ""
+msgstr "Entzündbare Feststoffe"
 
 #. module: l10n_eu_product_adr
 #: model:product.dangerous.class.type,name:l10n_eu_product_adr.dangerous_type_class_4_1
 msgid "Flammable solids, self-reactive substances, and solid desensitized explosives"
-msgstr ""
+msgstr "Entzündbare Feststoffe, selbstersetzliche Stoffe und feste desensibilisierte Sprengstoffe"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_product__flash_point
@@ -329,7 +329,7 @@ msgstr "Flammpunkt(°C)"
 #. module: l10n_eu_product_adr
 #: model:product.dangerous.class.type,name:l10n_eu_product_adr.dangerous_type_class_2
 msgid "Gases, including compressed, liquified, and dissolved under pressure gases and vapors "
-msgstr ""
+msgstr "Gase, einschließlich komprimierter, verflüssigter und unter Druck gelöster Gase und Dämpfe"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model,name:l10n_eu_product_adr.model_great_class
@@ -367,12 +367,12 @@ msgstr "ID"
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields.selection,name:l10n_eu_product_adr.selection__product_template__packaging_group__3
 msgid "II"
-msgstr ""
+msgstr "II"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields.selection,name:l10n_eu_product_adr.selection__product_template__packaging_group__4
 msgid "III"
-msgstr ""
+msgstr "III"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_dangerous_class__image
@@ -382,12 +382,12 @@ msgstr "Symbol"
 #. module: l10n_eu_product_adr
 #: model:product.dangerous.class.type,name:l10n_eu_product_adr.dangerous_type_class_6_2
 msgid "Infectious substances"
-msgstr ""
+msgstr "Ansteckungsgefährliche Stoffe"
 
 #. module: l10n_eu_product_adr
 #: model:product.dangerous.class,name:l10n_eu_product_adr.dangerous_class_12
 msgid "Infectious substances "
-msgstr ""
+msgstr "Ansteckungsgefährliche Stoffe"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_product__is_dangerous_good
@@ -399,7 +399,7 @@ msgstr "Ist ein Gefahrengut"
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_product__is_dangerous_waste
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_template__is_dangerous_waste
 msgid "Is Dangerous Waste"
-msgstr ""
+msgstr "Ist Gefahrgut Abfall"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_product__adr_amount
@@ -483,7 +483,7 @@ msgstr "Begrenzte Menge"
 #. module: l10n_eu_product_adr
 #: model:product.dangerous.class.type,name:l10n_eu_product_adr.dangerous_type_class_9
 msgid "Miscellaneous dangerous substances and articles"
-msgstr ""
+msgstr "Sonstige Gefahrstoffe und Gegenstände"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_product__nag
@@ -514,23 +514,23 @@ msgstr "Nein"
 #: model:product.dangerous.class,name:l10n_eu_product_adr.dangerous_class_3
 #: model:product.dangerous.class.type,name:l10n_eu_product_adr.dangerous_type_class_2_2
 msgid "Non-toxic and non-flammable gases"
-msgstr ""
+msgstr "Nicht Giftige und nicht brennbare Gase"
 
 #. module: l10n_eu_product_adr
 #: model:product.dangerous.class,name:l10n_eu_product_adr.dangerous_class_10
 #: model:product.dangerous.class.type,name:l10n_eu_product_adr.dangerous_type_class_5_2
 msgid "Organic peroxides"
-msgstr ""
+msgstr "Organische Peroxide"
 
 #. module: l10n_eu_product_adr
 #: model:product.dangerous.class,name:l10n_eu_product_adr.dangerous_class_9
 msgid "Oxidizers"
-msgstr ""
+msgstr "Oxidationsmittel"
 
 #. module: l10n_eu_product_adr
 #: model:product.dangerous.class.type,name:l10n_eu_product_adr.dangerous_type_class_5_1
 msgid "Oxidizing substances"
-msgstr ""
+msgstr "Oxidierende Stoffe"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model,name:l10n_eu_product_adr.model_packaging_type
@@ -557,22 +557,22 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:product.dangerous.class,name:l10n_eu_product_adr.dangerous_class_11
 msgid "Poison"
-msgstr ""
+msgstr "Giftstoff"
 
 #. module: l10n_eu_product_adr
 #: model:product.dangerous.class,name:l10n_eu_product_adr.dangerous_class_4
 msgid "Poison gases "
-msgstr ""
+msgstr "Giftige Gase"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model,name:l10n_eu_product_adr.model_product_dangerous_class
 msgid "Product Dangerous Class"
-msgstr ""
+msgstr "Produkt Gefahrenklasse"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model,name:l10n_eu_product_adr.model_product_dangerous_class_type
 msgid "Product Dangerous Type"
-msgstr ""
+msgstr "Produkt Gefahrentyp"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model,name:l10n_eu_product_adr.model_product_template
@@ -582,28 +582,28 @@ msgstr "Produktvorlage"
 #. module: l10n_eu_product_adr
 #: model:product.dangerous.class,name:l10n_eu_product_adr.dangerous_class_13
 msgid "Radioactive"
-msgstr ""
+msgstr "Radioaktiv"
 
 #. module: l10n_eu_product_adr
 #: model:product.dangerous.class.type,name:l10n_eu_product_adr.dangerous_type_class_7
 msgid "Radioactive material"
-msgstr ""
+msgstr "Radioaktive Stoffe"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_product__sds
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_template__sds
 msgid "SDS"
-msgstr ""
+msgstr "SDB"
 
 #. module: l10n_eu_product_adr
 #: model:product.dangerous.class,name:l10n_eu_product_adr.dangerous_class_7
 msgid "Spontaneously combustibles"
-msgstr ""
+msgstr "Selbstentzündliche Stoffe"
 
 #. module: l10n_eu_product_adr
 #: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.product_template_form_view
 msgid "Storage"
-msgstr ""
+msgstr "Lagerung"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_product__storage_class_id
@@ -626,23 +626,23 @@ msgstr "Lager-Klasse"
 #. module: l10n_eu_product_adr
 #: model:product.dangerous.class.type,name:l10n_eu_product_adr.dangerous_type_class_4_2
 msgid "Substances liable to spontaneous combustion"
-msgstr ""
+msgstr "Stoffe, die selbstentzündlich sind"
 
 #. module: l10n_eu_product_adr
 #: model:product.dangerous.class.type,name:l10n_eu_product_adr.dangerous_type_class_4_3
 msgid "Substances which, in contact with water, emit flammable gases"
-msgstr ""
+msgstr "Stoffe, die in Berührung mit Wasser entzündbare Gase bilden"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.constraint,message:l10n_eu_product_adr.constraint_product_dangerous_class_code_unique
 msgid "This code already exist"
-msgstr ""
+msgstr "Dieser Code existiert bereits"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.constraint,message:l10n_eu_product_adr.constraint_un_reference_un_description_unique
 #: model:ir.model.constraint,message:l10n_eu_product_adr.constraint_un_reference_un_name_unique
 msgid "This description already exist"
-msgstr ""
+msgstr "Diese Beschreibung existiert bereits"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,help:l10n_eu_product_adr.field_product_product__is_dangerous_good
@@ -653,12 +653,12 @@ msgstr "Dieses Produkt wird einer Gefahrengutklasse zugeordnet"
 #. module: l10n_eu_product_adr
 #: model:product.dangerous.class.type,name:l10n_eu_product_adr.dangerous_type_class_2_3
 msgid "Toxic"
-msgstr ""
+msgstr "Giftige Gase"
 
 #. module: l10n_eu_product_adr
 #: model:product.dangerous.class.type,name:l10n_eu_product_adr.dangerous_type_class_6_1
 msgid "Toxic substances"
-msgstr ""
+msgstr "Giftige Stoffe"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_product__transport_category
@@ -751,17 +751,17 @@ msgstr "Ja"
 #. module: l10n_eu_product_adr
 #: model:dangerous.uom,name:l10n_eu_product_adr.dangerous_uom_3
 msgid "g (Gramm)"
-msgstr ""
+msgstr "g (Gramm)"
 
 #. module: l10n_eu_product_adr
 #: model:dangerous.uom,name:l10n_eu_product_adr.dangerous_uom_2
 msgid "kg (Kilogramm)"
-msgstr ""
+msgstr "kg (Kilogramm)"
 
 #. module: l10n_eu_product_adr
 #: model:dangerous.uom,name:l10n_eu_product_adr.dangerous_uom_1
 msgid "l (Liter)"
-msgstr ""
+msgstr "l (Liter)"
 
 #. module: l10n_eu_product_adr
 #: model:storage.temp,name:l10n_eu_product_adr.storage_temp_2
