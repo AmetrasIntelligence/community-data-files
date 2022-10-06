@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.community-data-files] 13.0/l10n_eu_product_adr/i18n/l10n_eu_product_adr.pot\n"
 "X-Crowdin-File-ID: 2910\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-18 09:32\n"
+"PO-Revision-Date: 2022-10-06 07:41\n"
 
 #. module: l10n_eu_product_adr
 #: model:product.dangerous.class,name:l10n_eu_product_adr.dangerous_class_8
@@ -552,7 +552,7 @@ msgstr "Verpackungstyp"
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_dangerous_goods_handler__picking_ids
 msgid "Pickings"
-msgstr ""
+msgstr "Lieferschein"
 
 #. module: l10n_eu_product_adr
 #: model:product.dangerous.class,name:l10n_eu_product_adr.dangerous_class_11
