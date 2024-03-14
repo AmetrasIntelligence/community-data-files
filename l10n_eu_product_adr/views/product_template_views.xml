@@ -45,6 +45,10 @@
                         <group string="Classification">
                             <field name="adr_class_id" />
                             <field name="adr_classification_code" />
+                            <field
+                                name="content_package"
+                                attrs="{'required':[('is_dangerous','=',True)]}"
+                            />
                         </group>
                         <group string="Transport">
                             <label for="adr_limited_quantity" />
