@@ -46,6 +46,7 @@ class ProductTemplate(models.Model):
     adr_tunnel_restriction_code = fields.Selection(
         related="product_variant_ids.adr_goods_id.tunnel_restriction_code",
     )
+    content_package = fields.Float(string="Content Packaging")
 
     @api.depends("product_variant_ids.adr_goods_id")
     def _compute_adr_goods_on_variants(self):
