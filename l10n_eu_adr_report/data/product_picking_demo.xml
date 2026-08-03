@@ -3,6 +3,6 @@
     <record id="product.product_product_5" model="product.product">
         <field name="type">product</field>
         <field name="name">Dangerous product</field>
-        <field name="is_dangerous_waste">True</field>
+        <field name="is_dangerous">True</field>
     </record>
 </odoo>
